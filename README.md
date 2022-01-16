@@ -9,3 +9,5 @@ The LU parallization is explained in this image:
 ![](decompose_explained.jpeg?raw=true "Parallized LU decomposition")
 
 Parallizing other pieces is straightforward.
+
+Note: The commit history is not proper here as the original local repo I was using was on a server and it crashed. This folder was the regular backup I was taking.
